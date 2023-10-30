@@ -115,6 +115,7 @@ curl -X POST -H "Content-Type: application/json" -d "{\"timestamp\": \"2023-08-1
 curl -X POST -H "Content-Type: application/json" -d "{\"timestamp\": \"2023-08-20T12:00:00Z\", \"sex\": \"Female\", \"age\": 36
 ```
 
-## Get in touch
-[LinkedIn](https://www.linkedin.com/in/ericmidt/)
-[GitHub](https://github.com/ericmidt)
+## Get in touch:
+
+- [LinkedIn](https://www.linkedin.com/in/ericmidt/)
+- [GitHub](https://github.com/ericmidt)
