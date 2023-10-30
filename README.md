@@ -140,3 +140,8 @@ Para excluir o paciente com id 1, execute o comando:
 ```bash
 curl -X DELETE http://localhost:5000/paciente/1
 ```
+
+## Contato:
+
+- [LinkedIn](https://www.linkedin.com/in/ericmidt/)
+- [GitHub](https://github.com/ericmidt)
